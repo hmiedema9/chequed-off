@@ -8,7 +8,15 @@ keep track of tasks.
 
 ## Installation
 
-TODO: Describe the installation process
+### Install Node js
+More info can be found [here](https://github.com/nodejs/node#download) at the Node js GitHub page. 
+
+Node JS Download [here](https://nodejs.org/en/download/)
+
+### Install Cordova and Ionic Framework
+Use the command `npm install -g cordova ionic` to install Cordova and Ionic framework. 
+
+Or use `npm install` in the directory of the pulled repository.
 
 ## Usage
 
